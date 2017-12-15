@@ -1,0 +1,3 @@
+export const handler = function (event, context) {
+    context.succeed("hello world");
+};
