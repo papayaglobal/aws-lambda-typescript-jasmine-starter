@@ -9,6 +9,6 @@ Clone or download the repository
 
 ## Configuration
 
-edit lamda-config.json see (node-aws-lambda)[https://github.com/ThoughtWorksStudios/node-aws-lambda] for details.
+edit lamda-config.json see [node-aws-lambda](https://github.com/ThoughtWorksStudios/node-aws-lambda) for details.
 
- 
+
